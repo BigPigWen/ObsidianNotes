@@ -1,0 +1,170 @@
+{
+  "main": {
+    "id": "897ed94a9cb32f40",
+    "type": "split",
+    "children": [
+      {
+        "id": "0f56df214b7152ba",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3123547496dfdcf9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "配置/软件系统配置.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "97a1bfbd7426bf3a",
+    "type": "split",
+    "children": [
+      {
+        "id": "47ce561a9b9bf5d3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b562371f504588fe",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3d58517fa2d785f9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a2cd22f685fd2532",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "d232b1c132ef54c4",
+    "type": "split",
+    "children": [
+      {
+        "id": "b51e137e3d6efe34",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "169f7109b1d7f939",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "配置/软件系统配置.md",
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "94d05a23a56ed8b0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "配置/软件系统配置.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "55bee9de4b371826",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              }
+            }
+          },
+          {
+            "id": "4f9caf593b2d9a61",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "配置/软件系统配置.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "3123547496dfdcf9",
+  "lastOpenFiles": [
+    "未命名.md",
+    "Qt/QT串口通信.md",
+    "未命名 4",
+    "未命名 3",
+    "未命名 2",
+    "未命名 1",
+    "未命名",
+    "Qt/QT文件.md",
+    "SpringBoot注解/SpringBoot常用注解.md",
+    "配置/软件系统配置.md",
+    "Qt/QT多线程和延时函数.md",
+    "SpringBoot注解/SpringBoot注解.md",
+    "Test/Test.md",
+    "test.md",
+    "配置",
+    "Test",
+    "SpringBoot注解",
+    "Qt"
+  ]
+}
