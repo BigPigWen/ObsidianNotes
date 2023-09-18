@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "0f56df214b7152ba",
+        "id": "ba918e6b41b3450f",
         "type": "tabs",
         "children": [
           {
-            "id": "3123547496dfdcf9",
+            "id": "5a58aa9d30389a71",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e59afd0a651e51d6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MarkDown/syntax.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "配置/软件系统配置.md",
+                "file": "MarkDown/syntax.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,9 +115,9 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "配置/软件系统配置.md",
+                "file": "MarkDown/syntax.md",
                 "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -125,24 +138,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "配置/软件系统配置.md"
+                "file": "MarkDown/syntax.md"
               }
-            }
-          },
-          {
-            "id": "63bfac90148d2e04",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {}
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 434.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -154,18 +159,22 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "63bfac90148d2e04",
+  "active": "e59afd0a651e51d6",
   "lastOpenFiles": [
-    "Qt/QT多线程和延时函数.md",
     "配置/软件系统配置.md",
-    "未命名.md",
+    "MarkDown/syntax.md",
+    "MarkDown/basics.md",
+    "MarkDown/basic.md",
+    "MarkDown/未命名.md",
+    "MarkDown",
     "Qt/QT串口通信.md",
+    "Qt/QT安装.md",
+    "Qt/QT多线程和延时函数.md",
+    "Qt/QT文件.md",
     "未命名 4",
     "未命名 3",
     "未命名 2",
     "未命名 1",
-    "未命名",
-    "Qt/QT文件.md",
     "SpringBoot注解/SpringBoot常用注解.md",
     "SpringBoot注解/SpringBoot注解.md",
     "Test/Test.md",
