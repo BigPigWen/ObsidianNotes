@@ -128,13 +128,21 @@
                 "file": "配置/软件系统配置.md"
               }
             }
+          },
+          {
+            "id": "63bfac90148d2e04",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 200.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -146,8 +154,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "3123547496dfdcf9",
+  "active": "63bfac90148d2e04",
   "lastOpenFiles": [
+    "Qt/QT多线程和延时函数.md",
+    "配置/软件系统配置.md",
     "未命名.md",
     "Qt/QT串口通信.md",
     "未命名 4",
@@ -157,8 +167,6 @@
     "未命名",
     "Qt/QT文件.md",
     "SpringBoot注解/SpringBoot常用注解.md",
-    "配置/软件系统配置.md",
-    "Qt/QT多线程和延时函数.md",
     "SpringBoot注解/SpringBoot注解.md",
     "Test/Test.md",
     "test.md",
