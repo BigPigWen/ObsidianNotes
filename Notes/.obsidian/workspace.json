@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MarkDown/syntax.md",
+                "file": "MarkDown/basics.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MarkDown/syntax.md",
+                "file": "MarkDown/basics.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MarkDown/syntax.md",
+                "file": "MarkDown/basics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MarkDown/syntax.md"
+                "file": "MarkDown/basics.md"
               }
             }
           }
@@ -161,8 +161,8 @@
   },
   "active": "e59afd0a651e51d6",
   "lastOpenFiles": [
-    "配置/软件系统配置.md",
     "MarkDown/syntax.md",
+    "配置/软件系统配置.md",
     "MarkDown/basics.md",
     "MarkDown/basic.md",
     "MarkDown/未命名.md",
