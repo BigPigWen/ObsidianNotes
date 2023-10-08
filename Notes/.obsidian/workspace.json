@@ -14,8 +14,8 @@
               "type": "markdown",
               "state": {
                 "file": "配置/软件系统配置.md",
-                "mode": "source",
-                "source": false
+                "mode": "preview",
+                "source": true
               }
             }
           },
@@ -23,16 +23,11 @@
             "id": "e59afd0a651e51d6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MarkDown/basics.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MarkDown/basics.md",
+                "file": "配置/软件系统配置.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -115,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MarkDown/basics.md",
+                "file": "配置/软件系统配置.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -138,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MarkDown/basics.md"
+                "file": "配置/软件系统配置.md"
               }
             }
           }
@@ -147,7 +142,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 434.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -159,18 +154,18 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "e59afd0a651e51d6",
+  "active": "5a58aa9d30389a71",
   "lastOpenFiles": [
-    "MarkDown/syntax.md",
+    "Qt/QT文件.md",
+    "Qt/QT多线程和延时函数.md",
     "配置/软件系统配置.md",
     "MarkDown/basics.md",
+    "MarkDown/syntax.md",
     "MarkDown/basic.md",
     "MarkDown/未命名.md",
     "MarkDown",
     "Qt/QT串口通信.md",
     "Qt/QT安装.md",
-    "Qt/QT多线程和延时函数.md",
-    "Qt/QT文件.md",
     "未命名 4",
     "未命名 3",
     "未命名 2",
