@@ -1,0 +1,176 @@
+{
+  "main": {
+    "id": "1538b274d7714db9",
+    "type": "split",
+    "children": [
+      {
+        "id": "341f94882583b3ed",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "13a4ac0db422d960",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/QtCreator/插件开发.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1631d3a260e6802b",
+    "type": "split",
+    "children": [
+      {
+        "id": "eb109456630cc741",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f782669cf6a3ad56",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a963458dfe0749e4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "cf3c1ff564c1acde",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 256.5
+  },
+  "right": {
+    "id": "da19dbdd7bc68349",
+    "type": "split",
+    "children": [
+      {
+        "id": "b2125bb48631c89f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "988af34d06731f96",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Notes/QtCreator/插件开发.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "09f6683e822da9e9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Notes/QtCreator/插件开发.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9de03972f37575db",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "5e5ff27516c89e07",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Notes/QtCreator/插件开发.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "13a4ac0db422d960",
+  "lastOpenFiles": [
+    "Notes/QtCreator/Plugin.md",
+    "Notes/QtCreator/插件开发.md",
+    "Notes/QtCreator/images/Pasted image 20240822150547.png",
+    "Notes/MarkDown/syntax.md",
+    "Notes/QtCreator/images/Pasted image 20240822150649.png",
+    "Notes/QtCreator/images/Pasted image 20240822110857.png",
+    "Notes/QtCreator/images/Pasted image 20240822110605.png",
+    "Notes/QtCreator/images/Pasted image 20240822110018.png",
+    "Notes/QtCreator/images",
+    "Notes/QtCreator/新建文件夹",
+    "Pasted image 20240822110018.png",
+    "Notes/Qt/QT文件.md",
+    "Notes/Dart&Flutter/Dart.md",
+    "Notes/MarkDown/basics.md",
+    "Notes/配置/软件系统配置.md",
+    "Notes/QtCreator",
+    "未命名",
+    "Notes/Dart&Flutter/Flutter.md",
+    "Notes/Qt/QT串口通信.md",
+    "Notes/Dart&Flutter.md",
+    "Notes/Dart&Flutter",
+    "Notes/SpringBoot注解/SpringBoot注解.md",
+    "Notes/SpringBoot注解/SpringBoot常用注解.md",
+    "README.md"
+  ]
+}
