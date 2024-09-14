@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "341f94882583b3ed",
+        "id": "2af94d109788987f",
         "type": "tabs",
         "children": [
           {
-            "id": "13a4ac0db422d960",
+            "id": "17cb43e2a6a55bd9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/QtCreator/插件开发.md",
+                "file": "Notes/Qt/QtCreator/插件开发.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Notes/QtCreator/插件开发.md",
+                "file": "Notes/Qt/QtCreator/插件开发.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/QtCreator/插件开发.md",
+                "file": "Notes/Qt/QtCreator/插件开发.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/QtCreator/插件开发.md"
+                "file": "Notes/Qt/QtCreator/插件开发.md"
               }
             }
           }
@@ -146,27 +146,28 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "13a4ac0db422d960",
+  "active": "17cb43e2a6a55bd9",
   "lastOpenFiles": [
-    "Notes/QtCreator/Plugin.md",
-    "Notes/QtCreator/插件开发.md",
-    "Notes/QtCreator/images/Pasted image 20240822150547.png",
+    "Notes/Qt/QtCreator/Plugin.md",
     "Notes/MarkDown/syntax.md",
-    "Notes/QtCreator/images/Pasted image 20240822150649.png",
-    "Notes/QtCreator/images/Pasted image 20240822110857.png",
+    "Notes/MarkDown/basics.md",
+    "Notes/Dart&Flutter/Flutter.md",
+    "Notes/Dart&Flutter/Dart.md",
+    "Notes/Qt/QtCreator/images/Pasted image 20240822150547.png",
+    "Notes/Qt/QtCreator/images/Pasted image 20240822110857.png",
+    "Notes/Qt/QtCreator/images/Pasted image 20240822110018.png",
+    "Notes/Qt/QtCreator/插件开发.md",
+    "Notes/Qt/Qt函数.md",
+    "Notes/Qt/QT多线程和延时函数.md",
+    "Notes/Qt/QT文件.md",
+    "Notes/Qt/QtCreator/images/Pasted image 20240822150649.png",
     "Notes/QtCreator/images/Pasted image 20240822110605.png",
-    "Notes/QtCreator/images/Pasted image 20240822110018.png",
-    "Notes/QtCreator/images",
+    "Notes/Qt/QtCreator/images",
     "Notes/QtCreator/新建文件夹",
     "Pasted image 20240822110018.png",
-    "Notes/Qt/QT文件.md",
-    "Notes/Dart&Flutter/Dart.md",
-    "Notes/MarkDown/basics.md",
     "Notes/配置/软件系统配置.md",
-    "Notes/QtCreator",
+    "Notes/Qt/QtCreator",
     "未命名",
-    "Notes/Dart&Flutter/Flutter.md",
-    "Notes/Qt/QT串口通信.md",
     "Notes/Dart&Flutter.md",
     "Notes/Dart&Flutter",
     "Notes/SpringBoot注解/SpringBoot注解.md",

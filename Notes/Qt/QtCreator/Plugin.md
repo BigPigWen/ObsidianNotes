@@ -45,9 +45,9 @@ Qt Creator UI is shown
 # Creating
 ## Creating a plugin
 File > New File or Project > Library > Qt Creator Plugin
-![[images/Pasted image 20240822110018.png]]
+![[Pasted image 20240822110018.png]]
 ## Meta data
-![[images/Pasted image 20240822110857.png]]
+![[Pasted image 20240822110857.png]]
 + Deploy into:
   + Qt Creator build - for your build
   + Local user setting - system availability
